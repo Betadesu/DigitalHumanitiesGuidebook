@@ -1,1 +1,1 @@
-# DigitalHumanitiesGuidebook
+# Digital Humanities Guidebook
